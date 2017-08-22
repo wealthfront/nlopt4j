@@ -92,9 +92,9 @@ Requires following:
 + Java 1.6 or above.
 + Maven 2.1 or above.
 
-Currently the NLopt libraries and headers must be installed to ~/nlopt.
-The NLopt include files must be under ~/nlopt/include.
-The NLopt library files must be under ~/nlopt/lib.
+Currently the NLopt libraries and headers must be installed to /usr/local/Cellar/nlopt/2.4.2_2.
+The NLopt include files must be under /usr/local/Cellar/nlopt/2.4.2_2/include.
+The NLopt library files must be under /usr/local/Cellar/nlopt/2.4.2_2/lib.
 
 To build follow these steps:
 ```
